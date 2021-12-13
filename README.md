@@ -1,2 +1,2 @@
 # jadezhuomapubu.com
-Personal website of jadezhuomapubu.com
+Personal Website
